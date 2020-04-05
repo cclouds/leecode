@@ -1,4 +1,4 @@
-package 队列;
+package 链表;
 
 /**
  * Description: 206. 反转链表

@@ -1,4 +1,4 @@
-package 队列;
+package 链表;
 
 /**
  * Description: 237. 删除链表中的节点
